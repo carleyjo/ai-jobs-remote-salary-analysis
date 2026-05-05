@@ -1,5 +1,7 @@
 # ai-jobs-remote-salary-analysis
-This project investigates how remote work status relates to salaries in AI and data science roles. As I pursue my Master’s degree in Data Science at the University of St. Thomas, understanding potential salary differences between fully remote and hybrid roles is especially relevant as I evaluate my long-term career goals.
+This project examines how remote work status relates to salaries in AI and data science roles. As I pursue my Master’s degree in Data Science at the University of St. Thomas, understanding potential compensation differences between fully remote and hybrid roles is especially relevant as I evaluate my long-term career goals.
+
+In addition to career insights, this analysis is grounded in advancing the common good by exploring whether disparities exist that could disadvantage individuals who rely on remote work due to accessibility, health, or other constraints. By identifying and highlighting any such patterns, the project aims to support more equitable and inclusive workplace practices within the data science field.
 
 ## Project Scaffold Table
 
